@@ -98,10 +98,6 @@ if __name__=="__main__" :
             print("Your IP address is"+ip)
             speak(f"Sir, your IP address is {ip}")
 
-        elif 'strongest' in command:
-            print("Brother's Realm is the strongest bond ever known to human")
-            speak("Brother's Realm is the strongest bond ever known to human")
-
         elif 'sleep' in command:
             print("Thank you for using me, sir. Have a nice day!")
             speak("Thank you for using me, sir. Have a nice day!")
