@@ -48,7 +48,7 @@ def takeCommand():
         print("Say that again please...")  
         return "None"
     return command
-   
+
 
 if __name__=="__main__" :
     greetings()
